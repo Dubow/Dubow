@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Dubow&show_icons=true&theme=default" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubow&theme=default" />
