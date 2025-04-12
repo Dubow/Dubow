@@ -34,18 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dubow&show_icons=true&theme=default" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dubow&theme=default" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dubow&layout=compact" />
-</p>
-
----
-
 ### 📌 Featured Projects:
 Here are some of the exciting projects I’ve built and contributed to:
 
