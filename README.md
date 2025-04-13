@@ -44,7 +44,7 @@ Here are some of the exciting projects I’ve built and contributed to:
 ---
 
 ### 📫 Let's Connect:
-- Portfolio: coming soon!
+- Portfolio: [Homepage](https://dubow.github.io/)
 - LinkedIn: [Abdirahman Dubow](https://www.linkedin.com/in/abdirahman-dubow-03338b237/)
 
 ---
