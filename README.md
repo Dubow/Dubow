@@ -37,7 +37,7 @@
 ### 📌 Featured Projects:
 Here are some of the exciting projects I’ve built and contributed to:
 
-- 💊 **[Medizoom](#)** – A cross-platform mobile Telemedicine app developed using **React Native**, **Node.js**, and **MySQL**, featuring virtual consultations, doctor dashboards, and MPesa integration.
+- 💊 **[Medizoom](https://github.com/Dubow/MediZoom-backend)** – A cross-platform mobile Telemedicine app developed using **React Native**, **Node.js**, and **MySQL**, featuring virtual consultations, doctor dashboards, and MPesa integration.
 - ✍️ **[Blog Page System](https://github.com/Dubow/husdubow_blog-site)** – A dynamic blog platform where users can **create, read, update, delete** posts, and interact via **likes, dislikes, and comments**, powered by **Node.js**, **MySQL**, and **JavaScript**.
 - 🏥 **[Hamlin Hospital – Institutional Website](https://github.com/Dubow/Hamlin-Hospital)** – A professional website for an organization built using **HTML**, **CSS**, and **JavaScript**, showcasing hospital services, doctor profiles, contact information, and facility details.
   
